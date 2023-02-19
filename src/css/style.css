@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Coda Caption', sans-serif !important;
+  font-family: 'Coda Caption', sans-serif;
   color: #1e1e1e;
 }
 
@@ -175,7 +175,6 @@ header article {
     width: 100%;
   }
 }
-
 header h1:after {
   display: block;
   content: '';
